@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Doulzin
-- 👀 Developer/networker
+Developer/networker
 communication Engineer
-- https://www.linkedin.com/in/Abdulazizidris
 
 <!---
 Doulzin/Doulzin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
