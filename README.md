@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Doulzin
+Hi, I’m @Doulzin
 Developer/networker
 communication Engineer
 
